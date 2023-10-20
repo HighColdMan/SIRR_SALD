@@ -6,7 +6,6 @@
 - Pytorch 1.11
 - CUDA 11.1
 - OpenCV-Python
-- 
 
 ## Introduction
 In practical scenarios, reflections may impair the visual quality of images,
